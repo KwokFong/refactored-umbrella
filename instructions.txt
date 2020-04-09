@@ -2,4 +2,4 @@ Instructions for deploying this site
 -------------------------------------
 
 
-Some text here
+Some text here.
